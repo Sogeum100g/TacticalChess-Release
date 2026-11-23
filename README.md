@@ -15,7 +15,7 @@
 
 **[웹에서 플레이하기](https://tacticalchess.duckdns.org/)**
 
-<p align="center"><img src="assets/표지%20B%20돌격.png" alt="전술 체스: 선택과 집중 표지, 체스 기물들이 전장으로 돌격하는 장면" width="440"></p>
+<p align="center"><img src="assets/표지%20C%20전장.png" alt="전술 체스: 선택과 집중 표지" width="440"></p>
 
 ## 핵심 규칙 한눈에 보기
 
