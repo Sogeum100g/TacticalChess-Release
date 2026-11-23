@@ -15,6 +15,8 @@
 
 **[웹에서 플레이하기](https://tacticalchess.duckdns.org/)**
 
+**[TacticalChess.apk](https://github.com/Sogeum100g/TacticalChess-Release/releases/download/release/TacticalChess.apk)**
+
 <p align="center"><img src="assets/표지%20C%20전장.png" alt="전술 체스: 선택과 집중 표지" width="1080"></p>
 
 ## 핵심 규칙 한눈에 보기
