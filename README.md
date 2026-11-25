@@ -14,8 +14,9 @@
 공격의 결과가 상대 기물의 체력에 따라 결과가 달라집니다.
 
 **[웹에서 플레이하기](https://tacticalchess.duckdns.org/)**
+**[TacticalChess.apk](https://github.com/Sogeum100g/TacticalChess-Release/releases/download/release/TacticalChess.apk)**
 
-<p align="center"><img src="assets/표지_전장.png" alt="표지" width="440"></p>
+<p align="center"><img src="assets/표지_전장.png" alt="표지" width="1080"></p>
 
 ## 핵심 규칙 한눈에 보기
 
