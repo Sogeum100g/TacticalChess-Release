@@ -15,7 +15,7 @@
 
 **[웹에서 플레이하기](https://tacticalchess.duckdns.org/)**
 
-<p align="center"><img src="assets/표지%20C%20전장.png" alt="전술 체스: 선택과 집중 표지" width="440"></p>
+<p align="center"><img src="assets/표지_전장.png" alt="표지" width="440"></p>
 
 ## 핵심 규칙 한눈에 보기
 
@@ -25,7 +25,7 @@
 
 남은 체력 이상이면 상대 기물을 처치하고 그 칸으로 이동합니다.
 
-<img src="assets/03 공격력과 체력.png" alt="공격력과 체력에 따른 공격 결과를 설명하는 카드" width="450">
+<img src="assets/1_능력치.png" alt="규칙 카드 1번 능력치" width="450">
 
 ### 2. 장비 배치
 
@@ -35,7 +35,7 @@
 
 킹은 무력 킹으로 장비를 장착할 수 없습니다.
 
-<img src="assets/04%20장비%20배치.png" alt="공격력 장비, 체력 장비, 운명의 주사위 배치를 설명하는 카드" width="450">
+<img src="assets/2_장비_배치.png" alt="규칙 카드 2번 장비 배치" width="450">
 
 ### 3. 비공개 정보
 
@@ -45,7 +45,7 @@
 
 상대 기물마다 개인 메모를 남길 수도 있습니다.
 
-<img src="assets/05%20비공개.png" alt="상대의 능력치와 장비가 비공개임을 설명하는 카드" width="450">
+<img src="assets/3_비공개.png" alt="규칙 카드 3번 비공개" width="450">
 
 ### 4. 운명의 주사위
 
@@ -55,13 +55,13 @@
 
 단, 체크 발생시 발동하지 않습니다.
 
-<img src="assets/06%20운명의%20주사위.png" alt="운명의 주사위와 추가 턴을 설명하는 카드" width="450">
+<img src="assets/4_운명의_주사위.png" alt="규칙 카드 4번 운명의 주사위" width="450">
 
 ### 5. 승리 조건
 
 기본 체스와 같이 **체크메이트**를 걸어 승리합니다.
 
-<img src="assets/07%20승리%20조건.png" alt="킹의 능력치와 체크메이트 승리 조건을 설명하는 카드" width="450">
+<img src="assets/5_승리_조건.png" alt="규칙 카드 5번 승리 조건" width="450">
 
 ## 플레이 방식
 
